@@ -1,0 +1,66 @@
+H:\Programming\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject0.2\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject0.2\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject0.2\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\FinalProject0.2\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\FinalProject0.2\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject0.2\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+C:\Users\Intollerant\Desktop\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+C:\Users\Intollerant\Desktop\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\Intollerant\Desktop\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Intollerant\Desktop\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Intollerant\Desktop\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+C:\Users\Intollerant\Desktop\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+H:\Programming\Final Project0.4\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\Final Project0.4\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\Final Project0.4\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\Final Project0.4\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\Final Project0.4\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\Final Project0.4\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject0.5\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject0.5\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject0.5\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\FinalProject0.5\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\FinalProject0.5\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject0.5\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+H:\Programming\Final Project0.6\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\Final Project0.6\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\Final Project0.6\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\Final Project0.6\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\Final Project0.6\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\Final Project0.6\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+H:\Programming\Final Project0.7\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\Final Project0.7\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\Final Project0.7\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\Final Project0.7\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\Final Project0.7\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\Final Project0.7\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject0.8\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject0.8\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject0.8\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\FinalProject0.8\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\FinalProject0.8\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject0.8\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject0.9\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject0.9\Final Project\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject0.9\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\FinalProject0.9\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\FinalProject0.9\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject0.9\Final Project\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+C:\Users\Intollerant\Desktop\FinalProject1.0\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+C:\Users\Intollerant\Desktop\FinalProject1.0\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+C:\Users\Intollerant\Desktop\FinalProject1.0\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Intollerant\Desktop\FinalProject1.0\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Intollerant\Desktop\FinalProject1.0\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+C:\Users\Intollerant\Desktop\FinalProject1.0\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject1.1\FinalProject1.1\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject1.1\FinalProject1.1\Unlockable\Unlockable\GameStateManagement\bin\x86\Debug\GameStateManagement.pdb
+H:\Programming\FinalProject1.1\FinalProject1.1\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Programming\FinalProject1.1\FinalProject1.1\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\Programming\FinalProject1.1\FinalProject1.1\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.dll
+H:\Programming\FinalProject1.1\FinalProject1.1\Unlockable\Unlockable\GameStateManagement\obj\x86\Debug\GameStateManagement.pdb
